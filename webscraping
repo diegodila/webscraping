@@ -1,1 +1,4 @@
-teste
+Pyenv é um gerenciador de versões do Python, permite multiplas versoes do python, podendo gerenciar suas versoes
+pyenv shell #muda as versoes 
+pyenv versions #display versoes
+pyenv install VERSAO #para instalar a versão
