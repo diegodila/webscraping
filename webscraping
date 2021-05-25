@@ -12,12 +12,27 @@ virtualenv envname # cria o ambiente se voce instalou o python-virtualenv
 . venv/bin/acitvate #ativa o ambiente 
 source venv/bin/activate #ativa o ambiente
 deactivate
+------------------------------------------------------
+A11-160421
+O que você verá na seção Identificando Informações de um Website
 
+Realizar um Scraping nem sempre é uma tarefa fácil, muitas vezes você precisa analisar as informações do site antes de começar a utilizar ferramentas ou técnicas para realizar tal tarefa.
+
+Você também deve se preocupar em não infringir a lei enquanto faz seu trabalho de Scraping, pois, não é porque um site está publicado na Internet que podemos varrer e pegar seu conteúdo para uso próprio ou até mesmo correr o risco de sobrecarregar o site e derrubar o mesmo.
+
+O objetivo desta seção é mostrar formas de buscar informações sobre os sites que queremos trabalhar, como por exemplo, descobrir quais tecnologias estão presentes no site.
+
+Saber qual tecnologia é usada pelo site pode lhe ajudar na hora de criar uma aplicação para buscar informações no mesmo.
 
 ------------------------------------------------------
+A12 
+lib builtwith
 ------------------------------------------------------
+A13
+lib whois
 ------------------------------------------------------
-------------------------------------------------------
+A15 Regex
+
 ------------------------------------------------------
 ------------------------------------------------------
 ------------------------------------------------------
